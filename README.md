@@ -5,6 +5,7 @@
 Este repositorio contiene una implementación de convolución en imágenes con padding de zeros, permitiendo aplicar filtros sin perder información en los bordes.
 
 ## Requisitos para ejecutar el programa:
+- Cualquier versión de Python3
 - Numpy
 - Matplotlib
 - OpenCv2

@@ -1,8 +1,10 @@
 # Actividad 2. Implementación de Padding
+### Diana Escalante García | A01253468
 
+## Descripción
 Este repositorio contiene una implementación de convolución en imágenes con padding, permitiendo aplicar filtros sin perder información en los bordes.
 
-### Requisitos para ejecutar el programa:
+## Requisitos para ejecutar el programa:
 - Numpy
 - Matplotlib
 - OpenCv2
